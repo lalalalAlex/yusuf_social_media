@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="166be0c5-0496-42d9-bd9c-2c09a5cd7c24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../asdfghjkl/asror/web_site/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asdfghjkl/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bankAL/pydantik_dz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dazzzzzzzzzzzzzz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz_Alberty/block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz_Alberty/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fashion_site'/fashion/main/templates/main/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fashion_site'/fashion/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fashion_site'/fashion/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fashion_site'/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_2popitka/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_2popitka/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../func_python_test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../func_python_test/unitt-st.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../func_python_test/unittest_dz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_fastapi/jwt_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_fastapi/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwt_fastapi/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/answers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/answers/answer_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/asks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/asks/ask_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/database/answer_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/database/ask_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/database/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main1.2/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/database/product_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/database/transfers_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/database/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../main_Project/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/comment/comment_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/comment/commentapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/database/comentservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/database/postservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/database/userservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/post/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/post/post_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/post/postapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_Project/user/userapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_site/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/card/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/card/card_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/database/card_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/database/transfer_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/database/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/transfers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pay_system/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postanova/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postanova/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/classwork_bs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/cvetofor_c_modelami.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/parse_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/qrcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectss/trafic_lights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPro/async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPro/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPro/next(yield).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPro/ran_dom_lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonPro/type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qwertyuiop/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qwertyuiop/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qwertyuiop/database/post_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qwertyuiop/database/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qwertyuiop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/main/templates/main/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolSIte/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolSIte/school/main/templates/main/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolSIte/school/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schoolSIte/school/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testtsss/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/card/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/card/card_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/database/cardservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/database/transferservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/database/userservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/transaction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xcvbnm,/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/.idea/docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/card/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/card/card_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/database/cardservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/database/transferservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/database/userservice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/transaction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xghjk/user/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../идгузкштеы/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../идгузкштеы/users.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Z2MmSGlXEPYb7Xr0P1cYzXI4s5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexander A. Lavrov\PycharmProjects\xcvbnm," />
+      <recent name="C:\Users\Alexander A. Lavrov\PycharmProjects\xghjk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="xcvbnm," />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../xcvbnm," />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../xcvbnm,/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166be0c5-0496-42d9-bd9c-2c09a5cd7c24" name="Changes" comment="" />
+      <created>1701615880037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701615880037</updated>
+    </task>
+    <servers />
+  </component>
+</project>
